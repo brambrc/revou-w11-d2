@@ -1,5 +1,5 @@
 // Program untuk menentukan apakah suatu bilangan positif, negatif, atau nol
-const bilangan = parseInt(prompt("Masukkan suatu bilangan:"));
+const bilangan = 0;
 
 if (bilangan > 0) {
     console.log("Bilangan tersebut adalah positif");
